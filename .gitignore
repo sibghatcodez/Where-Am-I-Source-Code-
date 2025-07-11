@@ -1,0 +1,17 @@
+# Ignore build and intermediate files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Visual Studio files
+*.sln
+*.VC.db
+*.VC.opendb
+.vscode/
+.vs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
